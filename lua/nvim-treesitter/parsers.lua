@@ -74,6 +74,14 @@ list.ada = {
   maintainers = { "@briot" },
 }
 
+list.ags = {
+  install_info = {
+    url = "https://github.com/samotron/tree-sitter-ags",
+    files = { "src/parser.c" },
+  },
+  maintainers = { "@samotron" },
+}
+
 list.agda = {
   install_info = {
     url = "https://github.com/tree-sitter/tree-sitter-agda",
