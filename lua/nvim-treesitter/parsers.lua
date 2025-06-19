@@ -77,6 +77,7 @@ list.ada = {
 list.ags = {
   install_info = {
     url = "https://github.com/samotron/tree-sitter-ags",
+    branch = "main",
     files = { "src/parser.c" },
   },
   maintainers = { "@samotron" },
